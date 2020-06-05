@@ -1,4 +1,0 @@
-# 编辑或增加常用条件
-mutation userConditionDelete($input: [ID]) {
-  result: userConditionDelete (input: $input)
-}

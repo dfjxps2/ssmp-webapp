@@ -1,3 +1,0 @@
-mutation lagout {
-  data: logoutUser
-}
